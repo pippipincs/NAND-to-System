@@ -1,4 +1,4 @@
-# NAND-to-System: A First-Principles Computer Build
+# NAND-to-System: A First-Principle Computer Build
    
   This project implements the hardware layers of a computer, following the [Nand2Tetris](https://w
      ww.nand2tetris.org/) course. Starting from a single NAND gate, each chapter builds on the last — culminating in
