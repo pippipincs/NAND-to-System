@@ -10,6 +10,8 @@
    ### 01 — Boolean Logic
   
    Elementary logic gates, all built from the primitive NAND gate.
+
+   Chips:
    
   Not, And, Or, Xor, Mux, DMux, Not16, And16, Or16, Or8Way, Mux16, Mux4Way16, Mux8Way16, DMux4Way, DMux8Way
 
@@ -18,6 +20,8 @@
   
  Adders and the ALU, built from the gates in chapter 01.
 
+ Chips:
+
  HalfAdder, FullAdder, Add16, Inc16, ALU
   
 
@@ -25,6 +29,9 @@
    ### 03 — Memory
   
    Memory elements, from a single bit up to 16K RAM.
+
+   Chips:
+   
   Bit, Register, RAM8, RAM64, RAM512, RAM4K, RAM16K, PC
    
   
@@ -37,6 +44,9 @@
    ### 05 — Computer Architecture
   
    The complete computer, assembled from all previous chapters.
+
+   Chips:
+   
    CPU, Memory, Computer
   
    
