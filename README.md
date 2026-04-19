@@ -1,7 +1,6 @@
 # NAND-to-System: A First-Principle Computer Build
    
-  This project implements the hardware layers of a computer, following the [Nand2Tetris](https://w
-     ww.nand2tetris.org/) course. Starting from a single NAND gate, each chapter builds on the last — culminating in
+  This project implements the hardware layers of a computer, following the Nand2Tetris(https://www.nand2tetris.org/) course. Starting from a single NAND gate, each chapter builds on the last — culminating in
      a fully functional computer.
    
   All hardware is written in HDL (a simplified Verilog).
